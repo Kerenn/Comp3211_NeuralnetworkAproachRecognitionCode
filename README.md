@@ -18,7 +18,6 @@ To run the code
 ```
 python deep-net.py
 python convneuralnetwork.py
-python recneuralnetwork.py
 ```
 
 ## Built With
