@@ -1,13 +1,26 @@
-## Overview
+# Handwritten-Digit-Recognition with Neural Network(COMP3211)
 
-### neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
+## Getting Started
 
-These scrips are updated ones from the **neuralnetworksanddeeplearning.com** gitHub repository in order to work with Python 3.5.2
+This project uses the Tensorflow Library in Python and uses Deep Neural Networks and Convolution Neural Networks
 
-The testing file (**test.py**) contains all three networks (network.py, network2.py, network3.py) from the book and it is the starting point to run (i.e. *train and evaluate*) them.
+1. Tensorflow 1.0
+2. Python 2.7
 
-## Just type at shell: **python3.5 test.py**
+To install Tensorflow
+```
+pip install tensorflow
+```
+## Running the tests
 
-In test.py there are examples of networks configurations with proper comments. I did that to relate with particular chapters from the book.
+To run the code
+```
+python deep-net.py
+python convneuralnetwork.py
+python rneuralnetwork.py
+```
 
+## Built With
+
+* [Tensorflow](https://www.tensorflow.org/docs) - The Deep Learning Library
 
