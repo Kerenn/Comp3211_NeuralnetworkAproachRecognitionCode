@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition with Neural Network(COMP3211)
-Neural network aproach of our project. This project creates Deep Neural Network with 4 hidden layers 1 input set and outpu layer. hidden layers has 1500 nodes each to train and test against MNIST handwritten Digit datasets. Also uses Convulution Neural Networks to compare 2 hidden layer with 4 against MNIST dataset. Also it has recurrency neural network against MNIST dataset.
+Neural network aproach of our project. This project creates Deep Neural Network with 4 hidden layers 1 input set and outpu layer. hidden layers has 1500 nodes each to train and test against MNIST handwritten Digit datasets. Also uses Convulution Neural Networks to compare 2 hidden layer with 4 against MNIST dataset. 
 
 ## Getting Started
 
